@@ -4,4 +4,4 @@
 
 ## Petstore.swagger.io
 
-**https://petstore.swagger.io/?url=**
+**https://petstore.swagger.io/?url=https://raw.githubusercontent.com/tendryAxel/openAPI-note-de-cours/master/api.yaml**
